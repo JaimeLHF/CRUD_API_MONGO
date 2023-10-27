@@ -1,0 +1,39 @@
+.campo_text {
+    margin: 24px 0;
+}
+
+
+.campo_radio {
+    margin: 10px 20px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+
+.label_text {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo_text input {
+    width: 100%;
+    padding: 15px 12px;
+    font-size: 22px;
+    line-height: 20px;
+    color: #ffffffe8;
+    vertical-align: middle;
+    background-color: #0d1117;
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    border: 0.05em solid #5396fe87;
+    border-radius: 6px;
+    box-shadow: 0 0 transparent;
+    outline: none;
+}
+
+.label_checkbox {
+    font-size: 16px;
+}
